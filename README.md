@@ -7,3 +7,6 @@ Allows users to report a restaurant in San Francisco to a health inspector.
 
 Inspectors can delete users, swaps roles, add users, update inspector information, delete complaints.
 
+Dashboard Demo: http://bkjohnson787.com/SFfood
+
+
