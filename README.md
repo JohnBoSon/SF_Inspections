@@ -1,5 +1,5 @@
 # SF_Inspections
-Backend script for database.
+Backend script for database that connects to a facebook messenger UI made with chatfuel.
 
 Script is called by chatfuel from a web server.
 
